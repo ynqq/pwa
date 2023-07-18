@@ -1,0 +1,725 @@
+lockfileVersion: 5.4
+
+specifiers:
+  vite: ^4.4.0
+  vite-plugin-mkcert: ^1.16.0
+
+devDependencies:
+  vite: registry.npmjs.org/vite/4.4.4
+  vite-plugin-mkcert: registry.npmjs.org/vite-plugin-mkcert/1.16.0_vite@4.4.4
+
+packages:
+
+  registry.npmjs.org/@esbuild/android-arm/0.18.13:
+    resolution: {integrity: sha512-KwqFhxRFMKZINHzCqf8eKxE0XqWlAVPRxwy6rc7CbVFxzUWB2sA/s3hbMZeemPdhN3fKBkqOaFhTbS8xJXYIWQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.18.13.tgz}
+    name: '@esbuild/android-arm'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm]
+    os: [android]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/android-arm64/0.18.13:
+    resolution: {integrity: sha512-j7NhycJUoUAG5kAzGf4fPWfd17N6SM3o1X6MlXVqfHvs2buFraCJzos9vbeWjLxOyBKHyPOnuCuipbhvbYtTAg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.18.13.tgz}
+    name: '@esbuild/android-arm64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [android]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/android-x64/0.18.13:
+    resolution: {integrity: sha512-M2eZkRxR6WnWfVELHmv6MUoHbOqnzoTVSIxgtsyhm/NsgmL+uTmag/VVzdXvmahak1I6sOb1K/2movco5ikDJg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.18.13.tgz}
+    name: '@esbuild/android-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [android]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/darwin-arm64/0.18.13:
+    resolution: {integrity: sha512-f5goG30YgR1GU+fxtaBRdSW3SBG9pZW834Mmhxa6terzcboz7P2R0k4lDxlkP7NYRIIdBbWp+VgwQbmMH4yV7w==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.18.13.tgz}
+    name: '@esbuild/darwin-arm64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/darwin-x64/0.18.13:
+    resolution: {integrity: sha512-RIrxoKH5Eo+yE5BtaAIMZaiKutPhZjw+j0OCh8WdvKEKJQteacq0myZvBDLU+hOzQOZWJeDnuQ2xgSScKf1Ovw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.18.13.tgz}
+    name: '@esbuild/darwin-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/freebsd-arm64/0.18.13:
+    resolution: {integrity: sha512-AfRPhHWmj9jGyLgW/2FkYERKmYR+IjYxf2rtSLmhOrPGFh0KCETFzSjx/JX/HJnvIqHt/DRQD/KAaVsUKoI3Xg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.18.13.tgz}
+    name: '@esbuild/freebsd-arm64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [freebsd]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/freebsd-x64/0.18.13:
+    resolution: {integrity: sha512-pGzWWZJBInhIgdEwzn8VHUBang8UvFKsvjDkeJ2oyY5gZtAM6BaxK0QLCuZY+qoj/nx/lIaItH425rm/hloETA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.18.13.tgz}
+    name: '@esbuild/freebsd-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [freebsd]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-arm/0.18.13:
+    resolution: {integrity: sha512-4iMxLRMCxGyk7lEvkkvrxw4aJeC93YIIrfbBlUJ062kilUUnAiMb81eEkVvCVoh3ON283ans7+OQkuy1uHW+Hw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-arm/-/linux-arm-0.18.13.tgz}
+    name: '@esbuild/linux-arm'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-arm64/0.18.13:
+    resolution: {integrity: sha512-hCzZbVJEHV7QM77fHPv2qgBcWxgglGFGCxk6KfQx6PsVIdi1u09X7IvgE9QKqm38OpkzaAkPnnPqwRsltvLkIQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.18.13.tgz}
+    name: '@esbuild/linux-arm64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-ia32/0.18.13:
+    resolution: {integrity: sha512-I3OKGbynl3AAIO6onXNrup/ttToE6Rv2XYfFgLK/wnr2J+1g+7k4asLrE+n7VMhaqX+BUnyWkCu27rl+62Adug==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.18.13.tgz}
+    name: '@esbuild/linux-ia32'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [ia32]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-loong64/0.18.13:
+    resolution: {integrity: sha512-8pcKDApAsKc6WW51ZEVidSGwGbebYw2qKnO1VyD8xd6JN0RN6EUXfhXmDk9Vc4/U3Y4AoFTexQewQDJGsBXBpg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.18.13.tgz}
+    name: '@esbuild/linux-loong64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [loong64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-mips64el/0.18.13:
+    resolution: {integrity: sha512-6GU+J1PLiVqWx8yoCK4Z0GnfKyCGIH5L2KQipxOtbNPBs+qNDcMJr9euxnyJ6FkRPyMwaSkjejzPSISD9hb+gg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-mips64el/-/linux-mips64el-0.18.13.tgz}
+    name: '@esbuild/linux-mips64el'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [mips64el]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-ppc64/0.18.13:
+    resolution: {integrity: sha512-pfn/OGZ8tyR8YCV7MlLl5hAit2cmS+j/ZZg9DdH0uxdCoJpV7+5DbuXrR+es4ayRVKIcfS9TTMCs60vqQDmh+w==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-ppc64/-/linux-ppc64-0.18.13.tgz}
+    name: '@esbuild/linux-ppc64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [ppc64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-riscv64/0.18.13:
+    resolution: {integrity: sha512-aIbhU3LPg0lOSCfVeGHbmGYIqOtW6+yzO+Nfv57YblEK01oj0mFMtvDJlOaeAZ6z0FZ9D13oahi5aIl9JFphGg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-riscv64/-/linux-riscv64-0.18.13.tgz}
+    name: '@esbuild/linux-riscv64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [riscv64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-s390x/0.18.13:
+    resolution: {integrity: sha512-Pct1QwF2sp+5LVi4Iu5Y+6JsGaV2Z2vm4O9Dd7XZ5tKYxEHjFtb140fiMcl5HM1iuv6xXO8O1Vrb1iJxHlv8UA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-s390x/-/linux-s390x-0.18.13.tgz}
+    name: '@esbuild/linux-s390x'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [s390x]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/linux-x64/0.18.13:
+    resolution: {integrity: sha512-zTrIP0KzYP7O0+3ZnmzvUKgGtUvf4+piY8PIO3V8/GfmVd3ZyHJGz7Ht0np3P1wz+I8qJ4rjwJKqqEAbIEPngA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.18.13.tgz}
+    name: '@esbuild/linux-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/netbsd-x64/0.18.13:
+    resolution: {integrity: sha512-I6zs10TZeaHDYoGxENuksxE1sxqZpCp+agYeW039yqFwh3MgVvdmXL5NMveImOC6AtpLvE4xG5ujVic4NWFIDQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.18.13.tgz}
+    name: '@esbuild/netbsd-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [netbsd]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/openbsd-x64/0.18.13:
+    resolution: {integrity: sha512-W5C5nczhrt1y1xPG5bV+0M12p2vetOGlvs43LH8SopQ3z2AseIROu09VgRqydx5qFN7y9qCbpgHLx0kb0TcW7g==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.18.13.tgz}
+    name: '@esbuild/openbsd-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [openbsd]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/sunos-x64/0.18.13:
+    resolution: {integrity: sha512-X/xzuw4Hzpo/yq3YsfBbIsipNgmsm8mE/QeWbdGdTTeZ77fjxI2K0KP3AlhZ6gU3zKTw1bKoZTuKLnqcJ537qw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.18.13.tgz}
+    name: '@esbuild/sunos-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [sunos]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/win32-arm64/0.18.13:
+    resolution: {integrity: sha512-4CGYdRQT/ILd+yLLE5i4VApMPfGE0RPc/wFQhlluDQCK09+b4JDbxzzjpgQqTPrdnP7r5KUtGVGZYclYiPuHrw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.18.13.tgz}
+    name: '@esbuild/win32-arm64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [win32]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/win32-ia32/0.18.13:
+    resolution: {integrity: sha512-D+wKZaRhQI+MUGMH+DbEr4owC2D7XnF+uyGiZk38QbgzLcofFqIOwFs7ELmIeU45CQgfHNy9Q+LKW3cE8g37Kg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.18.13.tgz}
+    name: '@esbuild/win32-ia32'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [ia32]
+    os: [win32]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@esbuild/win32-x64/0.18.13:
+    resolution: {integrity: sha512-iVl6lehAfJS+VmpF3exKpNQ8b0eucf5VWfzR8S7xFve64NBNz2jPUgx1X93/kfnkfgP737O+i1k54SVQS7uVZA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.13.tgz}
+    name: '@esbuild/win32-x64'
+    version: 0.18.13
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [win32]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/@octokit/auth-token/3.0.4:
+    resolution: {integrity: sha512-TWFX7cZF2LXoCvdmJWY7XVPi74aSY0+FfBZNSXEXFkMpjcqsQwDSYVv5FhRFaI0V1ECnwbz4j59T/G+rXNWaIQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/auth-token/-/auth-token-3.0.4.tgz}
+    name: '@octokit/auth-token'
+    version: 3.0.4
+    engines: {node: '>= 14'}
+    dev: true
+
+  registry.npmjs.org/@octokit/core/4.2.4:
+    resolution: {integrity: sha512-rYKilwgzQ7/imScn3M9/pFfUf4I1AZEH3KhyJmtPdE2zfaXAn2mFfUy4FbKewzc2We5y/LlKLj36fWJLKC2SIQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/core/-/core-4.2.4.tgz}
+    name: '@octokit/core'
+    version: 4.2.4
+    engines: {node: '>= 14'}
+    dependencies:
+      '@octokit/auth-token': registry.npmjs.org/@octokit/auth-token/3.0.4
+      '@octokit/graphql': registry.npmjs.org/@octokit/graphql/5.0.6
+      '@octokit/request': registry.npmjs.org/@octokit/request/6.2.8
+      '@octokit/request-error': registry.npmjs.org/@octokit/request-error/3.0.3
+      '@octokit/types': registry.npmjs.org/@octokit/types/9.3.2
+      before-after-hook: registry.npmjs.org/before-after-hook/2.2.3
+      universal-user-agent: registry.npmjs.org/universal-user-agent/6.0.0
+    transitivePeerDependencies:
+      - encoding
+    dev: true
+
+  registry.npmjs.org/@octokit/endpoint/7.0.6:
+    resolution: {integrity: sha512-5L4fseVRUsDFGR00tMWD/Trdeeihn999rTMGRMC1G/Ldi1uWlWJzI98H4Iak5DB/RVvQuyMYKqSK/R6mbSOQyg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/endpoint/-/endpoint-7.0.6.tgz}
+    name: '@octokit/endpoint'
+    version: 7.0.6
+    engines: {node: '>= 14'}
+    dependencies:
+      '@octokit/types': registry.npmjs.org/@octokit/types/9.3.2
+      is-plain-object: registry.npmjs.org/is-plain-object/5.0.0
+      universal-user-agent: registry.npmjs.org/universal-user-agent/6.0.0
+    dev: true
+
+  registry.npmjs.org/@octokit/graphql/5.0.6:
+    resolution: {integrity: sha512-Fxyxdy/JH0MnIB5h+UQ3yCoh1FG4kWXfFKkpWqjZHw/p+Kc8Y44Hu/kCgNBT6nU1shNumEchmW/sUO1JuQnPcw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/graphql/-/graphql-5.0.6.tgz}
+    name: '@octokit/graphql'
+    version: 5.0.6
+    engines: {node: '>= 14'}
+    dependencies:
+      '@octokit/request': registry.npmjs.org/@octokit/request/6.2.8
+      '@octokit/types': registry.npmjs.org/@octokit/types/9.3.2
+      universal-user-agent: registry.npmjs.org/universal-user-agent/6.0.0
+    transitivePeerDependencies:
+      - encoding
+    dev: true
+
+  registry.npmjs.org/@octokit/openapi-types/18.0.0:
+    resolution: {integrity: sha512-V8GImKs3TeQRxRtXFpG2wl19V7444NIOTDF24AWuIbmNaNYOQMWRbjcGDXV5B+0n887fgDcuMNOmlul+k+oJtw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/openapi-types/-/openapi-types-18.0.0.tgz}
+    name: '@octokit/openapi-types'
+    version: 18.0.0
+    dev: true
+
+  registry.npmjs.org/@octokit/plugin-paginate-rest/6.1.2_@octokit+core@4.2.4:
+    resolution: {integrity: sha512-qhrmtQeHU/IivxucOV1bbI/xZyC/iOBhclokv7Sut5vnejAIAEXVcGQeRpQlU39E0WwK9lNvJHphHri/DB6lbQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/plugin-paginate-rest/-/plugin-paginate-rest-6.1.2.tgz}
+    id: registry.npmjs.org/@octokit/plugin-paginate-rest/6.1.2
+    name: '@octokit/plugin-paginate-rest'
+    version: 6.1.2
+    engines: {node: '>= 14'}
+    peerDependencies:
+      '@octokit/core': '>=4'
+    dependencies:
+      '@octokit/core': registry.npmjs.org/@octokit/core/4.2.4
+      '@octokit/tsconfig': registry.npmjs.org/@octokit/tsconfig/1.0.2
+      '@octokit/types': registry.npmjs.org/@octokit/types/9.3.2
+    dev: true
+
+  registry.npmjs.org/@octokit/plugin-request-log/1.0.4_@octokit+core@4.2.4:
+    resolution: {integrity: sha512-mLUsMkgP7K/cnFEw07kWqXGF5LKrOkD+lhCrKvPHXWDywAwuDUeDwWBpc69XK3pNX0uKiVt8g5z96PJ6z9xCFA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/plugin-request-log/-/plugin-request-log-1.0.4.tgz}
+    id: registry.npmjs.org/@octokit/plugin-request-log/1.0.4
+    name: '@octokit/plugin-request-log'
+    version: 1.0.4
+    peerDependencies:
+      '@octokit/core': '>=3'
+    dependencies:
+      '@octokit/core': registry.npmjs.org/@octokit/core/4.2.4
+    dev: true
+
+  registry.npmjs.org/@octokit/plugin-rest-endpoint-methods/7.2.3_@octokit+core@4.2.4:
+    resolution: {integrity: sha512-I5Gml6kTAkzVlN7KCtjOM+Ruwe/rQppp0QU372K1GP7kNOYEKe8Xn5BW4sE62JAHdwpq95OQK/qGNyKQMUzVgA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/plugin-rest-endpoint-methods/-/plugin-rest-endpoint-methods-7.2.3.tgz}
+    id: registry.npmjs.org/@octokit/plugin-rest-endpoint-methods/7.2.3
+    name: '@octokit/plugin-rest-endpoint-methods'
+    version: 7.2.3
+    engines: {node: '>= 14'}
+    peerDependencies:
+      '@octokit/core': '>=3'
+    dependencies:
+      '@octokit/core': registry.npmjs.org/@octokit/core/4.2.4
+      '@octokit/types': registry.npmjs.org/@octokit/types/10.0.0
+    dev: true
+
+  registry.npmjs.org/@octokit/request-error/3.0.3:
+    resolution: {integrity: sha512-crqw3V5Iy2uOU5Np+8M/YexTlT8zxCfI+qu+LxUB7SZpje4Qmx3mub5DfEKSO8Ylyk0aogi6TYdf6kxzh2BguQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/request-error/-/request-error-3.0.3.tgz}
+    name: '@octokit/request-error'
+    version: 3.0.3
+    engines: {node: '>= 14'}
+    dependencies:
+      '@octokit/types': registry.npmjs.org/@octokit/types/9.3.2
+      deprecation: registry.npmjs.org/deprecation/2.3.1
+      once: registry.npmjs.org/once/1.4.0
+    dev: true
+
+  registry.npmjs.org/@octokit/request/6.2.8:
+    resolution: {integrity: sha512-ow4+pkVQ+6XVVsekSYBzJC0VTVvh/FCTUUgTsboGq+DTeWdyIFV8WSCdo0RIxk6wSkBTHqIK1mYuY7nOBXOchw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/request/-/request-6.2.8.tgz}
+    name: '@octokit/request'
+    version: 6.2.8
+    engines: {node: '>= 14'}
+    dependencies:
+      '@octokit/endpoint': registry.npmjs.org/@octokit/endpoint/7.0.6
+      '@octokit/request-error': registry.npmjs.org/@octokit/request-error/3.0.3
+      '@octokit/types': registry.npmjs.org/@octokit/types/9.3.2
+      is-plain-object: registry.npmjs.org/is-plain-object/5.0.0
+      node-fetch: registry.npmjs.org/node-fetch/2.6.12
+      universal-user-agent: registry.npmjs.org/universal-user-agent/6.0.0
+    transitivePeerDependencies:
+      - encoding
+    dev: true
+
+  registry.npmjs.org/@octokit/rest/19.0.13:
+    resolution: {integrity: sha512-/EzVox5V9gYGdbAI+ovYj3nXQT1TtTHRT+0eZPcuC05UFSWO3mdO9UY1C0i2eLF9Un1ONJkAk+IEtYGAC+TahA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/rest/-/rest-19.0.13.tgz}
+    name: '@octokit/rest'
+    version: 19.0.13
+    engines: {node: '>= 14'}
+    dependencies:
+      '@octokit/core': registry.npmjs.org/@octokit/core/4.2.4
+      '@octokit/plugin-paginate-rest': registry.npmjs.org/@octokit/plugin-paginate-rest/6.1.2_@octokit+core@4.2.4
+      '@octokit/plugin-request-log': registry.npmjs.org/@octokit/plugin-request-log/1.0.4_@octokit+core@4.2.4
+      '@octokit/plugin-rest-endpoint-methods': registry.npmjs.org/@octokit/plugin-rest-endpoint-methods/7.2.3_@octokit+core@4.2.4
+    transitivePeerDependencies:
+      - encoding
+    dev: true
+
+  registry.npmjs.org/@octokit/tsconfig/1.0.2:
+    resolution: {integrity: sha512-I0vDR0rdtP8p2lGMzvsJzbhdOWy405HcGovrspJ8RRibHnyRgggUSNO5AIox5LmqiwmatHKYsvj6VGFHkqS7lA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/tsconfig/-/tsconfig-1.0.2.tgz}
+    name: '@octokit/tsconfig'
+    version: 1.0.2
+    dev: true
+
+  registry.npmjs.org/@octokit/types/10.0.0:
+    resolution: {integrity: sha512-Vm8IddVmhCgU1fxC1eyinpwqzXPEYu0NrYzD3YZjlGjyftdLBTeqNblRC0jmJmgxbJIsQlyogVeGnrNaaMVzIg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/types/-/types-10.0.0.tgz}
+    name: '@octokit/types'
+    version: 10.0.0
+    dependencies:
+      '@octokit/openapi-types': registry.npmjs.org/@octokit/openapi-types/18.0.0
+    dev: true
+
+  registry.npmjs.org/@octokit/types/9.3.2:
+    resolution: {integrity: sha512-D4iHGTdAnEEVsB8fl95m1hiz7D5YiRdQ9b/OEb3BYRVwbLsGHcRVPz+u+BgRLNk0Q0/4iZCBqDN96j2XNxfXrA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/@octokit/types/-/types-9.3.2.tgz}
+    name: '@octokit/types'
+    version: 9.3.2
+    dependencies:
+      '@octokit/openapi-types': registry.npmjs.org/@octokit/openapi-types/18.0.0
+    dev: true
+
+  registry.npmjs.org/asynckit/0.4.0:
+    resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz}
+    name: asynckit
+    version: 0.4.0
+    dev: true
+
+  registry.npmjs.org/axios/1.4.0_debug@4.3.4:
+    resolution: {integrity: sha512-S4XCWMEmzvo64T9GfvQDOXgYRDJ/wsSZc7Jvdgx5u1sd0JwsuPLqb3SYmusag+edF6ziyMensPVqLTSc1PiSEA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/axios/-/axios-1.4.0.tgz}
+    id: registry.npmjs.org/axios/1.4.0
+    name: axios
+    version: 1.4.0
+    dependencies:
+      follow-redirects: registry.npmjs.org/follow-redirects/1.15.2_debug@4.3.4
+      form-data: registry.npmjs.org/form-data/4.0.0
+      proxy-from-env: registry.npmjs.org/proxy-from-env/1.1.0
+    transitivePeerDependencies:
+      - debug
+    dev: true
+
+  registry.npmjs.org/before-after-hook/2.2.3:
+    resolution: {integrity: sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/before-after-hook/-/before-after-hook-2.2.3.tgz}
+    name: before-after-hook
+    version: 2.2.3
+    dev: true
+
+  registry.npmjs.org/combined-stream/1.0.8:
+    resolution: {integrity: sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.8.tgz}
+    name: combined-stream
+    version: 1.0.8
+    engines: {node: '>= 0.8'}
+    dependencies:
+      delayed-stream: registry.npmjs.org/delayed-stream/1.0.0
+    dev: true
+
+  registry.npmjs.org/debug/4.3.4:
+    resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/debug/-/debug-4.3.4.tgz}
+    name: debug
+    version: 4.3.4
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+    dependencies:
+      ms: registry.npmjs.org/ms/2.1.2
+    dev: true
+
+  registry.npmjs.org/delayed-stream/1.0.0:
+    resolution: {integrity: sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz}
+    name: delayed-stream
+    version: 1.0.0
+    engines: {node: '>=0.4.0'}
+    dev: true
+
+  registry.npmjs.org/deprecation/2.3.1:
+    resolution: {integrity: sha512-xmHIy4F3scKVwMsQ4WnVaS8bHOx0DmVwRywosKhaILI0ywMDWPtBSku2HNxRvF7jtwDRsoEwYQSfbxj8b7RlJQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/deprecation/-/deprecation-2.3.1.tgz}
+    name: deprecation
+    version: 2.3.1
+    dev: true
+
+  registry.npmjs.org/esbuild/0.18.13:
+    resolution: {integrity: sha512-vhg/WR/Oiu4oUIkVhmfcc23G6/zWuEQKFS+yiosSHe4aN6+DQRXIfeloYGibIfVhkr4wyfuVsGNLr+sQU1rWWw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/esbuild/-/esbuild-0.18.13.tgz}
+    name: esbuild
+    version: 0.18.13
+    engines: {node: '>=12'}
+    hasBin: true
+    requiresBuild: true
+    optionalDependencies:
+      '@esbuild/android-arm': registry.npmjs.org/@esbuild/android-arm/0.18.13
+      '@esbuild/android-arm64': registry.npmjs.org/@esbuild/android-arm64/0.18.13
+      '@esbuild/android-x64': registry.npmjs.org/@esbuild/android-x64/0.18.13
+      '@esbuild/darwin-arm64': registry.npmjs.org/@esbuild/darwin-arm64/0.18.13
+      '@esbuild/darwin-x64': registry.npmjs.org/@esbuild/darwin-x64/0.18.13
+      '@esbuild/freebsd-arm64': registry.npmjs.org/@esbuild/freebsd-arm64/0.18.13
+      '@esbuild/freebsd-x64': registry.npmjs.org/@esbuild/freebsd-x64/0.18.13
+      '@esbuild/linux-arm': registry.npmjs.org/@esbuild/linux-arm/0.18.13
+      '@esbuild/linux-arm64': registry.npmjs.org/@esbuild/linux-arm64/0.18.13
+      '@esbuild/linux-ia32': registry.npmjs.org/@esbuild/linux-ia32/0.18.13
+      '@esbuild/linux-loong64': registry.npmjs.org/@esbuild/linux-loong64/0.18.13
+      '@esbuild/linux-mips64el': registry.npmjs.org/@esbuild/linux-mips64el/0.18.13
+      '@esbuild/linux-ppc64': registry.npmjs.org/@esbuild/linux-ppc64/0.18.13
+      '@esbuild/linux-riscv64': registry.npmjs.org/@esbuild/linux-riscv64/0.18.13
+      '@esbuild/linux-s390x': registry.npmjs.org/@esbuild/linux-s390x/0.18.13
+      '@esbuild/linux-x64': registry.npmjs.org/@esbuild/linux-x64/0.18.13
+      '@esbuild/netbsd-x64': registry.npmjs.org/@esbuild/netbsd-x64/0.18.13
+      '@esbuild/openbsd-x64': registry.npmjs.org/@esbuild/openbsd-x64/0.18.13
+      '@esbuild/sunos-x64': registry.npmjs.org/@esbuild/sunos-x64/0.18.13
+      '@esbuild/win32-arm64': registry.npmjs.org/@esbuild/win32-arm64/0.18.13
+      '@esbuild/win32-ia32': registry.npmjs.org/@esbuild/win32-ia32/0.18.13
+      '@esbuild/win32-x64': registry.npmjs.org/@esbuild/win32-x64/0.18.13
+    dev: true
+
+  registry.npmjs.org/follow-redirects/1.15.2_debug@4.3.4:
+    resolution: {integrity: sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.15.2.tgz}
+    id: registry.npmjs.org/follow-redirects/1.15.2
+    name: follow-redirects
+    version: 1.15.2
+    engines: {node: '>=4.0'}
+    peerDependencies:
+      debug: '*'
+    peerDependenciesMeta:
+      debug:
+        optional: true
+    dependencies:
+      debug: registry.npmjs.org/debug/4.3.4
+    dev: true
+
+  registry.npmjs.org/form-data/4.0.0:
+    resolution: {integrity: sha512-ETEklSGi5t0QMZuiXoA/Q6vcnxcLQP5vdugSpuAyi6SVGi2clPPp+xgEhuMaHC+zGgn31Kd235W35f7Hykkaww==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/form-data/-/form-data-4.0.0.tgz}
+    name: form-data
+    version: 4.0.0
+    engines: {node: '>= 6'}
+    dependencies:
+      asynckit: registry.npmjs.org/asynckit/0.4.0
+      combined-stream: registry.npmjs.org/combined-stream/1.0.8
+      mime-types: registry.npmjs.org/mime-types/2.1.35
+    dev: true
+
+  registry.npmjs.org/fsevents/2.3.2:
+    resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz}
+    name: fsevents
+    version: 2.3.2
+    engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  registry.npmjs.org/is-plain-object/5.0.0:
+    resolution: {integrity: sha512-VRSzKkbMm5jMDoKLbltAkFQ5Qr7VDiTFGXxYFXXowVj387GeGNOCsOH6Msy00SGZ3Fp84b1Naa1psqgcCIEP5Q==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/is-plain-object/-/is-plain-object-5.0.0.tgz}
+    name: is-plain-object
+    version: 5.0.0
+    engines: {node: '>=0.10.0'}
+    dev: true
+
+  registry.npmjs.org/mime-db/1.52.0:
+    resolution: {integrity: sha512-sPU4uV7dYlvtWJxwwxHD0PuihVNiE7TyAbQ5SWxDCB9mUYvOgroQOwYQQOKPJ8CIbE+1ETVlOoK1UC2nU3gYvg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/mime-db/-/mime-db-1.52.0.tgz}
+    name: mime-db
+    version: 1.52.0
+    engines: {node: '>= 0.6'}
+    dev: true
+
+  registry.npmjs.org/mime-types/2.1.35:
+    resolution: {integrity: sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/mime-types/-/mime-types-2.1.35.tgz}
+    name: mime-types
+    version: 2.1.35
+    engines: {node: '>= 0.6'}
+    dependencies:
+      mime-db: registry.npmjs.org/mime-db/1.52.0
+    dev: true
+
+  registry.npmjs.org/ms/2.1.2:
+    resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/ms/-/ms-2.1.2.tgz}
+    name: ms
+    version: 2.1.2
+    dev: true
+
+  registry.npmjs.org/nanoid/3.3.6:
+    resolution: {integrity: sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/nanoid/-/nanoid-3.3.6.tgz}
+    name: nanoid
+    version: 3.3.6
+    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
+    dev: true
+
+  registry.npmjs.org/node-fetch/2.6.12:
+    resolution: {integrity: sha512-C/fGU2E8ToujUivIO0H+tpQ6HWo4eEmchoPIoXtxCrVghxdKq+QOHqEZW7tuP3KlV3bC8FRMO5nMCC7Zm1VP6g==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.12.tgz}
+    name: node-fetch
+    version: 2.6.12
+    engines: {node: 4.x || >=6.0.0}
+    peerDependencies:
+      encoding: ^0.1.0
+    peerDependenciesMeta:
+      encoding:
+        optional: true
+    dependencies:
+      whatwg-url: registry.npmjs.org/whatwg-url/5.0.0
+    dev: true
+
+  registry.npmjs.org/once/1.4.0:
+    resolution: {integrity: sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/once/-/once-1.4.0.tgz}
+    name: once
+    version: 1.4.0
+    dependencies:
+      wrappy: registry.npmjs.org/wrappy/1.0.2
+    dev: true
+
+  registry.npmjs.org/picocolors/1.0.0:
+    resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz}
+    name: picocolors
+    version: 1.0.0
+    dev: true
+
+  registry.npmjs.org/postcss/8.4.26:
+    resolution: {integrity: sha512-jrXHFF8iTloAenySjM/ob3gSj7pCu0Ji49hnjqzsgSRa50hkWCKD0HQ+gMNJkW38jBI68MpAAg7ZWwHwX8NMMw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/postcss/-/postcss-8.4.26.tgz}
+    name: postcss
+    version: 8.4.26
+    engines: {node: ^10 || ^12 || >=14}
+    dependencies:
+      nanoid: registry.npmjs.org/nanoid/3.3.6
+      picocolors: registry.npmjs.org/picocolors/1.0.0
+      source-map-js: registry.npmjs.org/source-map-js/1.0.2
+    dev: true
+
+  registry.npmjs.org/proxy-from-env/1.1.0:
+    resolution: {integrity: sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/proxy-from-env/-/proxy-from-env-1.1.0.tgz}
+    name: proxy-from-env
+    version: 1.1.0
+    dev: true
+
+  registry.npmjs.org/rollup/3.26.3:
+    resolution: {integrity: sha512-7Tin0C8l86TkpcMtXvQu6saWH93nhG3dGQ1/+l5V2TDMceTxO7kDiK6GzbfLWNNxqJXm591PcEZUozZm51ogwQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/rollup/-/rollup-3.26.3.tgz}
+    name: rollup
+    version: 3.26.3
+    engines: {node: '>=14.18.0', npm: '>=8.0.0'}
+    hasBin: true
+    optionalDependencies:
+      fsevents: registry.npmjs.org/fsevents/2.3.2
+    dev: true
+
+  registry.npmjs.org/source-map-js/1.0.2:
+    resolution: {integrity: sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz}
+    name: source-map-js
+    version: 1.0.2
+    engines: {node: '>=0.10.0'}
+    dev: true
+
+  registry.npmjs.org/tr46/0.0.3:
+    resolution: {integrity: sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz}
+    name: tr46
+    version: 0.0.3
+    dev: true
+
+  registry.npmjs.org/universal-user-agent/6.0.0:
+    resolution: {integrity: sha512-isyNax3wXoKaulPDZWHQqbmIx1k2tb9fb3GGDBRxCscfYV2Ch7WxPArBsFEG8s/safwXTT7H4QGhaIkTp9447w==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/universal-user-agent/-/universal-user-agent-6.0.0.tgz}
+    name: universal-user-agent
+    version: 6.0.0
+    dev: true
+
+  registry.npmjs.org/vite-plugin-mkcert/1.16.0_vite@4.4.4:
+    resolution: {integrity: sha512-5r+g8SB9wZzLNUFekGwZo3e0P6QlS6rbxK5p9z/itxNAimsYohgjK/YfVPVxM9EuglP9hjridq0lUejo9v1nVg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/vite-plugin-mkcert/-/vite-plugin-mkcert-1.16.0.tgz}
+    id: registry.npmjs.org/vite-plugin-mkcert/1.16.0
+    name: vite-plugin-mkcert
+    version: 1.16.0
+    engines: {node: '>=v16.7.0'}
+    peerDependencies:
+      vite: '>=3'
+    dependencies:
+      '@octokit/rest': registry.npmjs.org/@octokit/rest/19.0.13
+      axios: registry.npmjs.org/axios/1.4.0_debug@4.3.4
+      debug: registry.npmjs.org/debug/4.3.4
+      picocolors: registry.npmjs.org/picocolors/1.0.0
+      vite: registry.npmjs.org/vite/4.4.4
+    transitivePeerDependencies:
+      - encoding
+      - supports-color
+    dev: true
+
+  registry.npmjs.org/vite/4.4.4:
+    resolution: {integrity: sha512-4mvsTxjkveWrKDJI70QmelfVqTm+ihFAb6+xf4sjEU2TmUCTlVX87tmg/QooPEMQb/lM9qGHT99ebqPziEd3wg==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/vite/-/vite-4.4.4.tgz}
+    name: vite
+    version: 4.4.4
+    engines: {node: ^14.18.0 || >=16.0.0}
+    hasBin: true
+    peerDependencies:
+      '@types/node': '>= 14'
+      less: '*'
+      lightningcss: ^1.21.0
+      sass: '*'
+      stylus: '*'
+      sugarss: '*'
+      terser: ^5.4.0
+    peerDependenciesMeta:
+      '@types/node':
+        optional: true
+      less:
+        optional: true
+      lightningcss:
+        optional: true
+      sass:
+        optional: true
+      stylus:
+        optional: true
+      sugarss:
+        optional: true
+      terser:
+        optional: true
+    dependencies:
+      esbuild: registry.npmjs.org/esbuild/0.18.13
+      postcss: registry.npmjs.org/postcss/8.4.26
+      rollup: registry.npmjs.org/rollup/3.26.3
+    optionalDependencies:
+      fsevents: registry.npmjs.org/fsevents/2.3.2
+    dev: true
+
+  registry.npmjs.org/webidl-conversions/3.0.1:
+    resolution: {integrity: sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz}
+    name: webidl-conversions
+    version: 3.0.1
+    dev: true
+
+  registry.npmjs.org/whatwg-url/5.0.0:
+    resolution: {integrity: sha512-saE57nupxk6v3HY35+jzBwYa0rKSy0XR8JSxZPwgLr7ys0IBzhGviA1/TUGJLmSVqs8pb9AnvICXEuOHLprYTw==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz}
+    name: whatwg-url
+    version: 5.0.0
+    dependencies:
+      tr46: registry.npmjs.org/tr46/0.0.3
+      webidl-conversions: registry.npmjs.org/webidl-conversions/3.0.1
+    dev: true
+
+  registry.npmjs.org/wrappy/1.0.2:
+    resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==, registry: http://gitlab.ilabpower.devops/api/v4/projects/78/packages/npm/, tarball: https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz}
+    name: wrappy
+    version: 1.0.2
+    dev: true

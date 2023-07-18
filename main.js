@@ -11,7 +11,7 @@ btn.onclick = () => {
 
 const registerServiceWorker = async () => {
   if("serviceWorker" in navigator){
-    const registration = await navigator.serviceWorker.register('sw.js', {scope: '/pw/'})
+    const registration = await navigator.serviceWorker.register('sw.js', {scope: '/pwa/'})
     if(registration.installing){
       console.log('正在安装');
     }else if(registration.waiting){

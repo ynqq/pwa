@@ -1,5 +1,3 @@
-import './style.css'
-
 
 const message = document.querySelector('#message'), btn = document.querySelector('#btn'), list = document.querySelector('.list')
 

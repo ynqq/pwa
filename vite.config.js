@@ -1,12 +1,10 @@
-import mkcert from 'vite-plugin-mkcert'
+// import mkcert from "vite-plugin-mkcert";
 
 export default {
-    base: './',
-    server: {
-        port: 4000,
-        https: true
-    },
-    plugins: [
-        mkcert()
-    ]
-}
+  base: "./",
+  server: {
+    port: 4000,
+    host: true,
+  },
+//   plugins: [mkcert()],
+};
